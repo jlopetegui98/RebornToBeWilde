@@ -18,4 +18,4 @@ While we're not actively seeking contributions, we welcome any interest in the t
 
 ## License
 
-This project is made available under a license that requires attribution but allows for copying and modification for any use. We recommend the MIT License for its simplicity and broad permissions, but with a focus on proper credit attribution to our original work.
+This project is licensed under the MIT License - see the LICENSE file for details. The MIT License is a permissive license that only requires attribution back to us and allows for both personal and commercial use.
