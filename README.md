@@ -1,4 +1,5 @@
 # Reborn to be Wilde: Une approche de transfert stylistique textuel par l’affinage d’un modèle massif de langage
+This repository contains the code for the paper [Reborn to be Wilde](https://hal.science/hal-04557633v1)
 
 ## Description
 
